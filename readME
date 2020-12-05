@@ -1,0 +1,13 @@
+Document Scanner is an OpenCV project using Python.
+We have 2 Python Files, one with main code and another with supporting codes.
+In this Project , the Pipeline is :
+ 1- we scan the picture using webcam or take it from our gallery , I have given a path for the same.
+ 2-Convert it to Gray Scale
+ 3- Try to find edges using edge detector
+ 4- Contour the image
+ 5- Filter and get the biggest Contour
+ 6-With the corner points of the Biggest contour , get Warp Perspective of Image.
+ 7- Apply adaptive THRESHOLDING to get scanned paper feel.
+ 8-Add functionality of saving the Image in the folder.
+
+There can be issued while installing cv2 package, make sure to use the correct version for opencv-python package.
