@@ -10,4 +10,4 @@ In this Project , the Pipeline is :
  7- Apply adaptive THRESHOLDING to get scanned paper feel.
  8-Add functionality of saving the Image in the folder.
 
-There can be issued while installing cv2 package, make sure to use the correct version for opencv-python package.
+There can be issue while installing cv2 package, make sure to use the correct version for opencv-python package.
